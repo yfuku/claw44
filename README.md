@@ -1,15 +1,15 @@
 # claw44
 
-![Claw44](https://i.imgur.com/5a8iogl.jpg)
+![Claw44](https://i.imgur.com/sbSC06X.jpeg)
 
 A split keyboard with 3x6 vertically staggered keys and 4 thumb keys.
 
 ## Shop
-- [booth.pm](https://yfuku.booth.pm/items/1283873)
+- [Daily Craft Keyboard](https://shop.dailycraft.jp/products/claw44)
 
 ## Introduction
-- [自作キーボード Claw44とは？ - yfuku blog](https://blog.yfuku.com/entry/claw44)
+- [Waht is Claw44?](https://docs.dailycraft.jp/keyboards/claw44/whatis.html-)
 
 ## Build Guide
-- [ビルドガイド ](https://blog.yfuku.com/entry/craw44_buildguide)
+- [Build Guide](https://docs.dailycraft.jp/buildguides/claw44v3/buildguide.html)
 
